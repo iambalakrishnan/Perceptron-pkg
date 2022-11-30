@@ -1,4 +1,4 @@
-$ onePerceptron python package
+$ Perceptron python package
 
 ## How to use this package
 ```python
