@@ -9,7 +9,7 @@ USER_NAME = "iambalakrishnan"
 
 setuptools.setup(
     name=f"{PACKAGE_NAME}",
-    version="0.0.3",
+    version="0.0.4",
     author=USER_NAME,
     author_email="imbkrishnaa@gmail.com",
     description="A small package for perceptron",
