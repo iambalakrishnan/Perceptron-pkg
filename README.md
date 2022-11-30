@@ -3,7 +3,7 @@ $ onePerceptron python package
 ## How to use this package
 ```python
 from onePerceptron.perceptron import Perceptron
-model = Perceptron(sta=0.3, epochs=10)
+model = Perceptron(eta=0.3, epochs=10)
 ```
 ## Reference - 
 
